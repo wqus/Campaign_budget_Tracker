@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="362d9fc9-926e-4ccc-8e03-8e5ff00e75f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campaigns/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campaigns/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campaigns/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campaigns/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campaigns/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campaigns/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campaigns/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campaigns/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campaigns/services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campaigns/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campaigns/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campaigns/tests/factories.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campaigns/tests/test_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campaigns/tests/test_services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campaigns/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campaigns/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tofo.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3I8KZDzs7zeUvlIiOOWvQbWhchW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python_project/Django_Ad&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python_project\Django_Ad" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Django_Ad" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="362d9fc9-926e-4ccc-8e03-8e5ff00e75f8" name="Changes" comment="" />
+      <created>1787140810052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787140810052</updated>
+    </task>
+    <servers />
+  </component>
+</project>
